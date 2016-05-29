@@ -1,6 +1,6 @@
 # Light
 
-Default theme for [Hexo].
+cherish theme for [Hexo].
 
 ## Install
 
